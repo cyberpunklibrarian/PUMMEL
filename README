@@ -1,0 +1,24 @@
+PUMMEL - Processing Unclaimed Materials Manually is Essentially Lame
+
+Written to work in conjunction with the Polaris Integrated Library System (ILS), PUMMEL is a simple script that allows a user to quickly add a fee to a patron's account for an unclaimed hold.
+
+To use:
+
+1. Launch PUMMEL and select the speed you wish to work with. Medium is the best on almost all systems. Click Submit.
+
+2. In Polaris open Cataloging -> Item Record.
+
+3. Scan the barcode of the item you wish to apply the Unclaimed fine to. DO NOT CHECK THE ITEM IN FIRST.
+
+4. Press CTRL ALT U.
+
+5. Allow the script to process and add the fee.
+
+6. When the Item Record appears and clears, you're ready to go again.
+
+Send any questions to 
+
+Daniel Messer
+cyberpunklibrarian@gmail.com
+@bibrarian
+google.com/+DanielMesser
