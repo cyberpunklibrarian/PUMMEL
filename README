@@ -2,6 +2,9 @@ PUMMEL - Processing Unclaimed Materials Manually is Essentially Lame
 
 Written to work in conjunction with the Polaris Integrated Library System (ILS), PUMMEL is a simple script that allows a user to quickly add a fee to a patron's account for an unclaimed hold.
 
+PUMMEL is written in AutoHotkey which can be had via:
+www.autohotkey.com
+
 To use:
 
 1. Launch PUMMEL and select the speed you wish to work with. Medium is the best on almost all systems. Click Submit.
